@@ -4,7 +4,6 @@ description: Hey, I'm Edna West
 images: ["/images/sample.jpg"]
 ---
 
-
 This is my about page. :wave:
 
 My name's Andrea. I'm 22 years old and I'm Mexican. I'm in my last year in University, I'm studying Computer Engineering at Universidad Autónoma Metropolitana in Mexico City. :smile: 
